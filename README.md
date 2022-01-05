@@ -1,5 +1,3 @@
-# Group AB
-This is the Repository of Group AB for the group project(COMP6200) named "Yellow Taxi Demand Prediction in New York city"
 
 ## Project Overview:
 In this Project we are dealing with the data of yellow taxi in the New York city where our major goal is to determine the number of pickups of yellow taxi cabs in the city
@@ -40,12 +38,3 @@ As smoothing is necessary for the data to remove noisy data and get to know the 
 **4. Modelling**
 In this project we used basic time series prediction techniques like Moving averages, weighted moving averages and exponential moving averages to model the baseline models. Later we incorporated different time series features such as exponential average, holts-winter triple exponential average, fourier transforms to the model and performed regression models such as linear and random forest regressor models. We caluclated MAPE and MSE of each of them and compared with baseline model to find out best model to predict the taxi demand in newyork city.
 
-
-## Group Members:
-Vinay Kumar Reddy Gaddam (46180540)
-
-Supriya Basnet (46116761)
-
-Shamshuddin Dudekula (46176292)
-
-Swathy Parippil Chandrasekharan (46131825)
